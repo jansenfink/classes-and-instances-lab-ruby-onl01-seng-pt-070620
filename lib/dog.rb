@@ -1,7 +1,7 @@
 class Dog 
-  @fido = new.Dog
-  @snoopy = new.Dog
-  @lassie = new.Dog
+fido = Dog.new 
+snoopy = Dog.new 
+lassie = Dog.new
 def dog
 end 
 
